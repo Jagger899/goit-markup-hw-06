@@ -520,8 +520,8 @@ header {
   fill: currentColor;
   width: 18px;
   height: 18px;
-  /* position: absolute;
-  transform: translate(-50%, -50%); */
+  position: absolute;
+  transform: translate(-50%, -50%);
 }
 .close-icon:hover {
   fill: var(--accent-color);
@@ -819,7 +819,7 @@ address {
 
 .icon-send {
   display: inline-block;
-  margin-left: 10px;
+  margin-left: 10 px;
 }
 
 /* галерея на стр портфолио */

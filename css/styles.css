@@ -818,8 +818,9 @@ address {
 }
 
 .icon-send {
-  display: inline-block;
-  margin-left: 10 px;
+  display: inline-flex;
+  margin-left: 10px;
+  fill: currentColor;
 }
 
 /* галерея на стр портфолио */
